@@ -1,2 +1,1 @@
-# .github
-Oceania - Party Infrastructure
+# Oceania - Party Infrastructure
